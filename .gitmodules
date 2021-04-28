@@ -1,0 +1,3 @@
+[submodule "corecms-services"]
+	path = corecms-services
+	url = git@github.com:SarloAkrobata/corecms-services.git
